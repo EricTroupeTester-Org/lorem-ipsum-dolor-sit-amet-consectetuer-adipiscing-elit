@@ -1,1 +1,3 @@
 # lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit
+
+[![Join the chat at https://gitter.im/EricTroupeTester-Org/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit](https://badges.gitter.im/EricTroupeTester-Org/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit.svg)](https://gitter.im/EricTroupeTester-Org/lorem-ipsum-dolor-sit-amet-consectetuer-adipiscing-elit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
